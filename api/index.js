@@ -15,9 +15,9 @@ app.use(
       "http://localhost:5173",
 
       // Production domains
-    //   "https://superguardhammersmith.uk",
-    //   "https://www.superguardhammersmith.uk",
-    //   "https://superguard-walworth-frontend.vercel.app",
+      "https://superguardhammersmith.uk",
+      "https://www.superguardhammersmith.uk",
+      "https://superguard-hammersmith-frontend.vercel.app",
     ],
     credentials: true,
   })
